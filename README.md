@@ -17,20 +17,12 @@
 
 |      | Feature |
 |------|---------|
-| 🖌 | **Pencil & Brush Tools** – Smooth and responsive drawing |
+| 🖌 | **Pencil & Brush Tools** – Smooth and responsive drawing experience |
 | 🧽 | **Eraser Tool** – Remove mistakes easily |
 | 📏 | **Adjustable Size & Opacity** – Customize your strokes |
-| ↩️ | **Undo / Redo** – Step backward or forward |
+| ↩️ | **Undo / Redo** – Step backward or forward with ease |
 | 🗑 | **Clear Canvas** – Start fresh anytime |
-| 💾 | **Save Drawing** – Download your artwork as an image |
-
----
-
-## 📸 Preview
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Add+Screenshot+Here" alt="SketchSplash Screenshot" width="80%">
-</p>
+| 💾 | **Save Drawing** – Download your creation as an image |
 
 ---
 
@@ -44,18 +36,6 @@
 
 ---
 
-## 🔮 Future Enhancements
-  
-- 📚 Layer Support for advanced editing  
-- 📱 Touch Gesture Support for mobile  
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
 
 <p align="center">
   Made with ❤️ using HTML, Tailwind CSS, and JavaScript
