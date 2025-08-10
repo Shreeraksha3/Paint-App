@@ -8,24 +8,21 @@
   <a href="https://6898cfa03f756d0867713fde--sketchsplash.netlify.app/" target="_blank">
     🌐 Live Demo
   </a>
-  &nbsp;|&nbsp;
-  <a href="https://github.com/yourusername/sketchsplash/issues">🐞 Report Bug</a>
-  &nbsp;|&nbsp;
-  <a href="https://github.com/yourusername/sketchsplash/pulls">💡 Request Feature</a>
+ 
 </p>
 
 ---
 
 ## ✨ Features
 
-| Icon | Feature |
+|      | Feature |
 |------|---------|
-| 🖌 | **Pencil & Brush Tools** – Smooth and responsive drawing experience |
+| 🖌 | **Pencil & Brush Tools** – Smooth and responsive drawing |
 | 🧽 | **Eraser Tool** – Remove mistakes easily |
 | 📏 | **Adjustable Size & Opacity** – Customize your strokes |
-| ↩️ | **Undo / Redo** – Step backward or forward with ease |
+| ↩️ | **Undo / Redo** – Step backward or forward |
 | 🗑 | **Clear Canvas** – Start fresh anytime |
-| 💾 | **Save Drawing** – Download your creation as an image |
+| 💾 | **Save Drawing** – Download your artwork as an image |
 
 ---
 
@@ -47,8 +44,19 @@
 
 ---
 
-## 🚀 Getting Started
+## 🔮 Future Enhancements
+  
+- 📚 Layer Support for advanced editing  
+- 📱 Touch Gesture Support for mobile  
 
-1️⃣ **Clone the Repository**  
-```bash
-git clone https://github.com/yourusername/sketchsplash.git
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+---
+
+<p align="center">
+  Made with ❤️ using HTML, Tailwind CSS, and JavaScript
+</p>
